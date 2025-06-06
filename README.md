@@ -7,7 +7,6 @@ This project showcases a detailed, interactive dashboard of a hypothetical compa
 
 This project demonstrates the end-to-end process of building a professional, interactive dashboard using **Google Looker Studio**. The dashboard presents order-related business insights for a fictional retail company, enabling stakeholders to explore data dynamically through intuitive charts and filters.
 
-Developed by referencing a guided tutorial from *I/O Data Tutorials*, this dashboard emphasizes best practices in data storytelling, layout design, and interactive reporting.
 
 ---
 

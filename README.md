@@ -16,19 +16,7 @@ The dashboard is powered by a retail orders dataset consisting of:
 - **Rows**: 9,994
 - **Columns**: 21
 - **Key Attributes**:
-  - Customer Name
-  - Segment
-  - State
-  - Region
-  - Order ID
-  - Order Date
-  - Ship Mode
-  - Sales
-  - Profit
-  - Quantity
-  - Category
-  - Sub-Category
-  - Discount
+  Customer Name, Segment, State, Region, Order ID, Order Date, Ship Mode, Sales, Profit, Quantity, Category, Sub-Category, Discount
 
 Files included:
 - `Data Source.xlsx` – primary dataset used in the dashboard
@@ -43,10 +31,10 @@ The dashboard answers the following questions through scorecards and charts:
 - What are the **total sales**, **profit**, and **order count**?
 - How many **unique customers** placed orders?
 - What is the **distribution of orders** across:
-  - 📍 Regions
-  - 🛍️ Categories
-  - 🧑 Segments
-  - 🚚 Shipping Modes
+  - Regions
+  - Categories
+  - Segments
+  - Shipping Modes
 - How does **order quantity** vary **over time**?
 - Which **cities** contribute most to order volumes?
 - What are the detailed **order-level metrics** across different fields?
